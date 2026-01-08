@@ -1371,3 +1371,4 @@
 159827452|exness
 183794456|exness
 257262649|exness
+195017|VersusTrade
