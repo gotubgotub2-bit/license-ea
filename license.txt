@@ -2167,3 +2167,7 @@
 263270782|Exness 
 183794380|Exness 
 257262408|Exness
+5010259|Tradingpro
+5503309|Tradingpro 
+5507071|Tradingpro
+5508158|Tradingpro
