@@ -2171,3 +2171,7 @@
 5503309|Tradingpro 
 5507071|Tradingpro
 5508158|Tradingpro
+263283239 | exness
+263283242 | exness
+159836952 | exness
+159836954 | exness
